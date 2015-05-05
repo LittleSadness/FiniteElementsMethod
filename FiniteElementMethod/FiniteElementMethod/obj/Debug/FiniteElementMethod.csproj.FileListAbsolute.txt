@@ -1,0 +1,6 @@
+D:\Documents\GitHub\FiniteElementsMethod\FiniteElementMethod\FiniteElementMethod\bin\Debug\FiniteElementMethod.exe.config
+D:\Documents\GitHub\FiniteElementsMethod\FiniteElementMethod\FiniteElementMethod\bin\Debug\FiniteElementMethod.exe
+D:\Documents\GitHub\FiniteElementsMethod\FiniteElementMethod\FiniteElementMethod\bin\Debug\FiniteElementMethod.pdb
+D:\Documents\GitHub\FiniteElementsMethod\FiniteElementMethod\FiniteElementMethod\obj\Debug\FiniteElementMethod.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\FiniteElementsMethod\FiniteElementMethod\FiniteElementMethod\obj\Debug\FiniteElementMethod.exe
+D:\Documents\GitHub\FiniteElementsMethod\FiniteElementMethod\FiniteElementMethod\obj\Debug\FiniteElementMethod.pdb
